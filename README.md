@@ -12,3 +12,5 @@ M365 Desired State Configuration [M365 Desired State Configuration](https://gith
 M365 Configuration as Code [Microsoft365DSC](https://microsoft365dsc.com/).
 
 Also, the use of Powershell per workload, where Microsoft365DSC does not cover the workload.
+
+https://github.com/bowman-repo/protected_utility_as_code/issues/7#issue-717966151
